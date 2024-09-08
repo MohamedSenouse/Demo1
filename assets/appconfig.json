@@ -2,4 +2,7 @@
   "remoteServiceBaseUrl": "https://roboticswebhost0000.azurewebsites.net",
   "remoteServiceBaseUrl2": "http://localhost:21021",
   "appBaseUrl": "./"
+  
+  
+  
 }
